@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    background-color: greenyellow;
+}
+.head{
+    background-color: blue;
+    height: 70px;
+}
+.head li{
+    display: inline-block;
+    margin: 15px 20px;
+    font-size: 20px;
+}
+
+.head a{
+text-decoration:none ;
+color: azure;
+    margin-top: 15px;
+    font-size: 20px;
+}
+#logo{
+    position: absolute;
+    top: 18px;
+    left: 8px;
+
+}
+.tx{
+    
+    color: blueviolet;
+    font-weight: bold;
+}
+.txt{
+    
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 20px;
+}
+.txt button{
+    
+    color: royalblue;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+}
+iframe{
+    margin: 20px 20px;
+}
+.sr ,tr, th ,td{
+    color: red;
+    border: 3px darkgoldenrod solid;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 20px;
+
+
+}
+footer{
+    padding-top:0;
+    margin-top: 0;
+    background-color: royalblue;
+    color: blue;
+    width: 100%;
+    height: 300px;
+}
+.fo{
+    margin top: initial;
+    padding-top: ;
+}
+
+.mo {
+    margin-bottom: 18;
+
+}
+
+.ma{
+     color: white;
+}
+.mo1{
+    color: white;
+    margin-top: 10px;
+    padding-top: 10px;
+    bottom: 18px;
+}
